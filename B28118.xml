@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Right Honourable, the Lords and Commons assembled in Parliament. The humble petition of Richard Pight, Clerk of the Irons in the Mint, in the Tower of London</title>
+            <author>Pight, Richard.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28118</idno><idno type="EEBO-CITATION">99828993</idno>
+  <idno type="VID">207710</idno>
+  <idno type="EEBO-PROQUEST">2240859658</idno>
+  
+            <idno type="STC">Wing P2218aA</idno>
+            <idno type="PROQUEST">99828993</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828993e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28118)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207710)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1935:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Right Honourable, the Lords and Commons assembled in Parliament. The humble petition of Richard Pight, Clerk of the Irons in the Mint, in the Tower of London</title>
+                  <author>Pight, Richard.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication conjectured by Wing.</note>
+                  <note>An earlier petition on the same subject--his position and arrears of pay--was addressed by the author to the Council of State.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  1660-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:207710:1"/>
+            <head>To the Right Honourable, The LORDS and COMMONS Assembled in Parliament.</head>
+            <head type="sub">The humble Petition of <hi>Richard Pight,</hi> Clerk of the Irons in the Mint, in the Tower of <hi>London.</hi>
+            </head>
+            <opener>Humbly sheweth,</opener>
+            <p>THat your Petitioner was intrusted in the Publique service for King and Parliament, in the year 1642. and hath ever since with great industry and faithfulness discharged the Trust reposed in him, as will appear by the testimony of several persons of Quality and Integri<g ref="char:EOLhyphen"/>ty, and by his giving a just and true Accompt to the late Council of State, of all such Irons committed to his Charge.</p>
+            <p>That your Petitioner by the malice of one <hi>Violet,</hi> hath suffered unjustly much trouble and disgrace, being abetted by some that are have been your Petitioners persecutors, and are offenders and con<g ref="char:EOLhyphen"/>federates with the said <hi>Violet,</hi> who is to be tryed the next Term upon an Indictment for Misprision of Treason.</p>
+            <p>That your Petitioner was authorized in his said Office, Clerk to the Irons of the said Mint, 1649. as by his Pattent granted by the late Parliament, as also by Indenture of the Mint, confirmed by Act of Parliament will more fully appear.</p>
+            <p>And your Patitioner is bound to prosecute them, it being contrary to Law that any offendors should swear against the prosecutor, until after the tryal, for they care not what they sweaar to save themselves.</p>
+            <p>Yet so it is (may it please your Honours) that one M. <hi>Swallow</hi> (a great companion of, and in<g ref="char:EOLhyphen"/>stigated by the foresaid <hi>Violet</hi>) endeavours to displace your Petitioner of his said Office, pretending Right to the same, upon a Pattent granted formerly by King <hi>James,</hi> without giving your Petitioner leave by due course of Law to make his Right, Integrity, and faithfulness manifest in the same, the said Patent of M. <hi>Swallow</hi> being (a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is humbly conceived) void in Law; he being for his unfaithfulness in the said Office and Service displaced, and your Petitioner vested in his room: which your Petitioner is ready and willing to prove, when and after what manner your Honours shall please to Order.</p>
+            <p>That your Petitioner was impowred by Order of the Council in 1649. for the searching, finding and prosecuting of false Coyners. Also that in the convention of 1656. before the Honourable the Lord <hi>Widdrington,</hi> Order was given to a Committee to prepare an Act for redress and punishing of false Coyners, a draught whereof is ready to be produced by your Petitioner.</p>
+            <p>That divers persons are so notoriously insolent and bold, as (under pretence of making Farthings) to stamp Silver money and forrain coyn, there being no Law established to prohibite their Presses.</p>
+            <p>That several Offenders and ill-affected persons make it their practise to get false money into their hands, and by boyling the same, put such a gloss thereon, that it passes for currant, to the great preju<g ref="char:EOLhyphen"/>dice and dishonour of the Nation.</p>
+            <p>That your Petitioner hath not received one penny for hisbursements, in prosecution of above eighty Offenders within these four years last past, as by a Schedule annexed appears; or salary since 1651. there being due to your Petitioner 500 l. and upwards, as by his Accompts will appear, and in Salary for his Office in the Mint 100 l. by which your Petitioners Estate in publique employments is much exhausted.</p>
+            <p>From such suits as which shall be commenced against him by any prosecution of offenders in the annexed Schedule or their confedertes, who have been prosecuted by your Petitioner in behalf of the Common-wealth which dayly seeketh his ruine, and is in danger of his life.</p>
+            <p>
+               <hi>The Premises considered, your Petitioner humbly supplicates your Honours, to confirm your Petitioner in his said Office of the Mint, and re-imburse your Petitioner of such disbursements and Salary as shall justly appear due unto him, And that your Honours will impower your Petitioner for prosecution of false Coyners, &amp;c. and grant such Protection and Indempnity to your Petitioner therein, as to your Ho<g ref="char:EOLhyphen"/>nours shall appear most equitable.</hi>
+            </p>
+            <closer>And your Petitioner (as in duty bound) shall ever pray, &amp;c.
+<signed>Richard Pight.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
